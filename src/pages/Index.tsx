@@ -12,7 +12,7 @@ const Index = () => {
   const socialLinks = [
     { 
       name: "YouTube", 
-      url: "https://youtube.com/@yourchannel", 
+      url: "https://youtube.com/channel/UC4wrNAWDm9M98NErIGXuuZA", 
       icon: "Youtube",
       color: "hover:bg-red-600"
     },
@@ -67,7 +67,7 @@ const Index = () => {
           <Button 
             size="lg" 
             className="bg-white text-black hover:bg-gray-100 font-bold text-lg px-8 py-6 rounded-full shadow-2xl hover-lift"
-            onClick={() => window.open('https://youtube.com/@yourchannel', '_blank')}
+            onClick={() => window.open('https://youtube.com/channel/UC4wrNAWDm9M98NErIGXuuZA', '_blank')}
           >
             <Icon name="Youtube" className="mr-2" size={24} />
             Подписаться на YouTube
