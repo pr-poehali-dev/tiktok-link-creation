@@ -4,9 +4,9 @@ import Icon from "@/components/ui/icon";
 
 const Index = () => {
   const youtubeVideos = [
-    "dQw4w9WgXcQ",
-    "9bZkp7q19f0",
-    "kJQP7kiw5Fk"
+    "hqUt6ROI4tE",
+    "7sO9xK0fvmo",
+    "36LY32HdkO4"
   ];
 
   const socialLinks = [
